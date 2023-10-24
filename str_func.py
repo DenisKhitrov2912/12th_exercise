@@ -1,3 +1,3 @@
 def up(word):
-    """Ставит заглавные буквы"""
-    return word.title()
+    """Ставит все заглавные буквы"""
+    return word.upper()
